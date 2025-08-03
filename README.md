@@ -33,7 +33,7 @@ pip package manager
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone <[repository-url](https://github.com/Madhusudan04337/EV_Vehicle_Charge_Demand.git)>
 cd ev-forecasting-project
 ```
 
@@ -114,8 +114,7 @@ Date,County,Electric Vehicle (EV) Total,county_encoded,months_since_start
 
 ### Branding & Text
 ```python
-# Update app title
-<h1 class='electric-title'>⚡ YOUR APP NAME</h1>
+<h1 class='electric-title'>⚡Ev Forecast</h1>
 
 # Update footer
 <p style='color: #e0e0e0;'>Created by YOUR NAME</p>
@@ -133,7 +132,7 @@ Date,County,Electric Vehicle (EV) Total,county_encoded,months_since_start
 ### Page Configuration
 ```python
 st.set_page_config(
-    page_title="Your App Title",
+    page_title="Ev Forecast",
     layout="wide"
 )
 ```
