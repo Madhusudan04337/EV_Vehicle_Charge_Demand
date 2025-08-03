@@ -33,8 +33,8 @@ pip package manager
 
 1. **Clone the repository**
 ```bash
-git clone <[repository-url](https://github.com/Madhusudan04337/EV_Vehicle_Charge_Demand.git)>
-cd ev-forecasting-project
+git clone https://github.com/Madhusudan04337/EV_Vehicle_Charge_Demand.git
+cd EV_Vehicle_Charge_Demand
 ```
 
 2. **Install dependencies**
@@ -115,9 +115,7 @@ Date,County,Electric Vehicle (EV) Total,county_encoded,months_since_start
 ### Branding & Text
 ```python
 <h1 class='electric-title'>⚡Ev Forecast</h1>
-
-# Update footer
-<p style='color: #e0e0e0;'>Created by YOUR NAME</p>
+<p style='color: #e0e0e0;'>Madhusudan</p>
 ```
 
 ### Color Scheme
